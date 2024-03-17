@@ -1,6 +1,9 @@
 .calculator {
     width: 300px;
     margin: 50px auto;
+    background-image: url('https://images.app.goo.gl/aKfscG9RXgEBWQeN7');
+    background-position: center;
+    background-repeat: no-repeat;
     border: 2px solid #ccc;
     border-radius: 5px;
     padding: 10px;
