@@ -1,0 +1,21 @@
+.calculator {
+    width: 300px;
+    margin: 50px auto;
+    background-color: chocolate;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+}
